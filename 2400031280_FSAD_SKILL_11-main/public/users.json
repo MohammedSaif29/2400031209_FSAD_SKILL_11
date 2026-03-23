@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Saif",
+    "email": "[saif123@mail.com]",
+    "phone": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Bhuvan",
+    "email": "[Bhuvan@mail.com]",
+    "phone": "9876543211"
+  },
+  {
+    "id": 3,
+    "name": "Ayaz",
+    "email": "[ayaz123@mail.com]",
+    "phone": "9876543212"
+  },
+  {
+    "id": 4,
+    "name": "Dhanush",
+    "email": "[Dhanush123@mail.com]",
+    "phone": "9876543213"
+  },
+  {
+    "id": 5,
+    "name": "Meena",
+    "email": "[meena123@mail.com]",
+    "phone": "9876543214"
+  },
+  {
+    "id": 6,
+    "name": "Arjun",
+    "email": "[arjun123@mail.com]",
+    "phone": "9876543215"
+  }
+]
